@@ -51,7 +51,7 @@
   - Example: Writing a script to manage a list of user accounts in a DevOps environment.
   
 ## Day 9: Loops
-- Loops in Python (for and while).
+- Loops in Python (for and while)
 - Loop control statements (break, continue).
 - Practice exercises and examples:
   - Example: Automating a log file analysis with a loop to find errors.
